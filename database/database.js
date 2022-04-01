@@ -3,6 +3,6 @@ const pool=mysql2.createPool({
     host:'localhost',
     database:'hotel_system',
     user:'root',
-    password:'ZXCVlara210901',
+    password:'dummypassword',
 });
 module.exports=pool;
